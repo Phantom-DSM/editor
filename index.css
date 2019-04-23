@@ -102,6 +102,10 @@ ul{
     width: 40px;
 }
 
+.item:hover{
+    cursor: pointer;
+}
+
 .holder{
     background-color: black;
     width: 1px;
